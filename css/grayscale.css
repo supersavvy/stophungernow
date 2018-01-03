@@ -145,7 +145,7 @@ a {
   padding-bottom: 150px; }
 
 .download-section {
-  color: white;
+  color: grey;
   background: url("img/hi.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
